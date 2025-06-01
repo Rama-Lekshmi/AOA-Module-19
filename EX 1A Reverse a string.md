@@ -12,9 +12,8 @@ ii) Otherwise, return s[-1] + reverse(s[:-1]).
 4.  The function recursively reverses the string by appending characters from the end.
 5. Print the reversed string.
 ## Program:
-```
+```py
 /*
-Program to implement Reverse a String
 Developed by:Rama E.K. Lekshmi
 Register Number: 212222240082
 */
