@@ -12,9 +12,8 @@ To write a python program to sort the first half of the list using merge sort.
 
 
 ## Program:
-```
+```py
 /*
-Program to implement Merge Sort
 Developed by: Rama E.K. Lekshmi
 Register Number:  212222240082
 */
